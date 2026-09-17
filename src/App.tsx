@@ -1,4 +1,3 @@
-import React from "react";
 import { ExampleWidget } from "./features/example_feature";
 
 export function App() {

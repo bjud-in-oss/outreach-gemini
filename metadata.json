@@ -1,6 +1,6 @@
 {
   "name": "Outreach Template Gemini Cloner",
-  "description": "Klonar bjud-in-oss/outreach-template-demo exklusive mattpocock-katalogen, installerar google-gemini skills och konfigurerar projektets huvudfil.",
+  "description": "Systemarkitektur och mall för autonom utveckling med Google Gemini Skills och mekaniska kvalitetsspärrar.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

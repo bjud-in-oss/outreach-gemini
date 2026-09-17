@@ -1,4 +1,3 @@
-import React from "react";
 import { Sparkles, Plus } from "lucide-react";
 import { useExample } from "../hooks/useExample";
 

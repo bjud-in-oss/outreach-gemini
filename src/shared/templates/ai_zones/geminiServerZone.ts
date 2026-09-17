@@ -50,7 +50,7 @@ export async function runStructuredAnalysis(cleanPrompt: string): Promise<Struct
     },
   });
 
-  const rawText = response.text?.() || "{}";
+  const rawText = response.text || "{}";
   const parsed = JSON.parse(rawText) as StructuredAiResponse;
 
   return {
